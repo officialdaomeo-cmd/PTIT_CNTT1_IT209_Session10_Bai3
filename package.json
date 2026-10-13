@@ -1,0 +1,12 @@
+{
+  "name": "hw-backend-multistage",
+  "version": "1.0.0",
+  "description": "DevOps Session 10 - Exercise 3: Multi-stage Dockerfile",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
